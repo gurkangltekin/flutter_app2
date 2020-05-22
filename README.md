@@ -2,6 +2,8 @@
 
 Flutter Odev 2
 
+Bu ödevin amacı, row, column, image, button türlerinin anlaşılmasını sağlamak
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
